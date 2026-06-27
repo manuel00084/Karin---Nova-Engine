@@ -1,0 +1,5 @@
+D:/Vtuber/MODELOS VRM/_fix2_final.glb
+D:/Vtuber/MODELOS VRM/Maid_opt.glb
+D:/Vtuber/MODELOS VRM/Maid_opt.glb.glb
+D:/Vtuber/MODELOS VRM/Maid_final.glb
+D:/Vtuber/MODELOS VRM/Maid.vrm

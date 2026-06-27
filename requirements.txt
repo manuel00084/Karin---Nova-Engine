@@ -1,0 +1,5 @@
+numpy>=1.24
+Pillow>=10.0
+pygltflib>=1.16
+pyglet>=2.1
+wgpu>=0.31
